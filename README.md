@@ -1,6 +1,6 @@
 # LAN8720-Fritzing
 
-![Fritzing Device](Screenshots/Wiring_ESP-WROOM-32.JPG)
+![Fritzing Device](Screenshots/Device.JPG)
 
 Fritzing Template for LAN8720
 
